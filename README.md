@@ -1,5 +1,4 @@
 # ico-contracts
-
 Ethereum smart contracts that have been used during successful ICOs
 
 ## Bancor
@@ -28,7 +27,6 @@ April 19 to 29 : 20% BONUS
 ## status.im
 
 Deployed contract: https://etherscan.io/address/0x55d34b686aa8C04921397c5807DB9ECEdba00a4c
-
 Token: https://etherscan.io/token/StatusNetwork
 
 ## Storj
@@ -43,9 +41,7 @@ Original GitHub repo: https://github.com/Matchpool/contracts
 
 ## SONM
 
-Presale contracts: Original GitHub repo: https://github.com/sonm-io/presale-token
-
-ICO contracts: Original GitHub repo: https://github.com/sonm-io/ico-contracts
+Original GitHub repo: https://github.com/sonm-io/presale-token
 
 ## Aragon
 
@@ -53,17 +49,9 @@ Token contract: https://etherscan.io/address/0x960b236A07cf122663c4303350609A66A
 
 Multisig contract: https://etherscan.io/address/0xcafe1a77e84698c83ca8931f54a755176ef75f2c
 
-## Mysterium Network
+## Blockswap (MobileGO?)
 
-GitHub repo: https://github.com/MysteriumNetwork/contracts
-
-## Blockswap (used by MobileGO)
-
-Swapping of tokens from Waves to Ethereum and back
-
-Read about Blockswap by Incent https://blockswap.incentloyalty.com/
-
-Original GitHub repo: https://github.com/bokkypoobah/Blockswap
+Blockswap by Incent https://blockswap.incentloyalty.com/
 
 Looks like a modification of this contract was used by MobileGO.
 
@@ -78,13 +66,3 @@ https://github.com/OpenZeppelin/zeppelin-solidity
 ### Contract examples by TokenMarket.net
 
 https://github.com/TokenMarketNet/ico
-
-### Analysis tool for smart contracts
-
-https://github.com/melonproject/oyente
-
-### MultiSigWallet by ConsenSys
-
-Allows multiple parties to agree on transactions before execution.
-
-https://github.com/ConsenSys/MultiSigWallet
